@@ -1,0 +1,97 @@
+[33m9e5dcdd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: rebase: updating HEAD
+[33m810f740[m[33m ([m[1;35mrefs/stash[m[33m)[m HEAD@{1}: checkout: moving from master to 810f740091cdb8ca0a0ddc14bb509e94283bd743
+[33m2697e1e[m HEAD@{2}: commit (amend): changed triangle for DC to GaussDC
+[33md0bf5db[m HEAD@{3}: commit (amend): changed triangle for DC to GaussDC
+[33m99e8cc3[m HEAD@{4}: commit: changed triangle for DC to GaussDC
+[33mb29f42c[m HEAD@{5}: commit (amend): integral and derivative plot
+[33m3087781[m HEAD@{6}: commit (amend): integral and derivative plot
+[33mfc3ee8a[m HEAD@{7}: commit (amend): integral and derivative plot
+[33md2af081[m HEAD@{8}: commit (amend): integral and derivative plot
+[33mef8874b[m HEAD@{9}: commit (amend): integral and derivative plot
+[33m8c00648[m HEAD@{10}: commit (amend): integral and derivative plot
+[33mef77e8c[m HEAD@{11}: commit (amend): integral and derivative plot
+[33m15c5c47[m HEAD@{12}: commit (amend): integral and derivative plot
+[33m2992e7c[m HEAD@{13}: commit (amend): integral and derivative plot
+[33m242f619[m HEAD@{14}: commit (amend): integral and derivative plot
+[33mf3588e4[m HEAD@{15}: commit (amend): integral and derivative plot
+[33m8ab350e[m HEAD@{16}: commit: integral and derivative plot rupture speed profile adapt frequency plot
+[33mab693d3[m HEAD@{17}: commit (amend): Update source_signal.m
+[33ma1523a2[m HEAD@{18}: commit: Update source_signal.m
+[33m7f9b3af[m HEAD@{19}: commit: adapt shift sources
+[33m5a54b28[m HEAD@{20}: reset: moving to 5a54b28afeeae61e4c7071defd4e85250da42f8b
+[33mce362cd[m HEAD@{21}: commit: adapt shift sources
+[33m5a54b28[m HEAD@{22}: commit: include integral in sourc signal
+[33m2b087e6[m HEAD@{23}: commit: try to make subgits and basegit the same
+[33me47e35d[m HEAD@{24}: commit: add a source for shifting in space
+[33mde717f3[m[33m ([m[1;31mforce/master[m[33m, [m[1;31mDC_sim/master[m[33m)[m HEAD@{25}: checkout: moving from a980a70a0ad4a394af06eb486dc3bcf9d6c43bc9 to master
+[33ma980a70[m HEAD@{26}: checkout: moving from master to force/master
+[33mde717f3[m[33m ([m[1;31mforce/master[m[33m, [m[1;31mDC_sim/master[m[33m)[m HEAD@{27}: checkout: moving from 4e61a3a53c3faf276320a6c685986987c255d5b0 to master
+[33m4e61a3a[m HEAD@{28}: checkout: moving from master to DC_sim/master
+[33ma980a70[m HEAD@{29}: checkout: moving from 4e61a3a53c3faf276320a6c685986987c255d5b0 to master
+[33m4e61a3a[m HEAD@{30}: checkout: moving from master to DC_sim/master
+[33m4e61a3a[m HEAD@{31}: checkout: moving from 4654ef8e90d10e0faa38a7de632253bf98fd6909 to master
+[33m4654ef8[m HEAD@{32}: checkout: moving from master to DC_sim/master
+[33m4654ef8[m HEAD@{33}: checkout: moving from 0b788c692b86945f089c6ce8a57628568734b5bd to master
+[33m0b788c6[m HEAD@{34}: checkout: moving from master to DC_sim/master
+[33m0b788c6[m HEAD@{35}: commit (amend): better axis
+[33m159f9a3[m HEAD@{36}: commit: better axis
+[33m6208743[m HEAD@{37}: commit: save the figure
+[33m7ffcacc[m HEAD@{38}: commit: add further functions in source folder
+[33mc9899ce[m HEAD@{39}: checkout: moving from 552883f2302eb55502ce46c13dfa5b4d53b83317 to master
+[33m552883f[m HEAD@{40}: checkout: moving from master to force/master
+[33m3945dd0[m HEAD@{41}: commit (amend): ignore
+[33m552883f[m HEAD@{42}: checkout: moving from 6e466747d85e773e7fbf59b9525d5ac018cb4b3d to master
+[33m6e46674[m HEAD@{43}: commit (amend): correct stash
+[33m68fdc9b[m HEAD@{44}: commit (amend): correct stash
+[33m496498e[m HEAD@{45}: commit: correct stash
+[33m8e731b0[m HEAD@{46}: commit: mod
+[33m6ceca0e[m HEAD@{47}: commit: test
+[33m6f9f5ef[m HEAD@{48}: pull --rebase --verbose DC_sim master: checkout 6f9f5ef188a67ce6d629b84df5e617f65f8da144
+[33m9e5dcdd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{49}: commit (merge): unmerged try correction
+[33me8376ff[m HEAD@{50}: commit (merge): Merge remote-tracking branch 'refs/remotes/DC_sim/master'
+[33m7f5b57d[m HEAD@{51}: commit: adapt script for 3 coordinate sourcepoint
+[33m7f5b57d[m HEAD@{52}: commit: adapt script for 3 coordinate sourcepoint
+[33m776200d[m HEAD@{53}: commit: adapt script for 3 coordinate sourcepoint
+[33m776200d[m HEAD@{54}: commit: adapt script for 3 coordinate sourcepoint
+[33m7c8eb6e[m HEAD@{55}: commit: Merge remote branch 'DC_sim/master'
+[33m7c8eb6e[m HEAD@{56}: commit (merge): Merge remote branch 'DC_sim/master'
+[33m740edef[m HEAD@{57}: commit: Merge remote branch 'DC_sim/master'
+[33m740edef[m HEAD@{58}: commit (merge): Merge remote branch 'DC_sim/master'
+[33m0e4eeef[m HEAD@{59}: commit (amend): adapt script for 3 coordinate sourcepoint
+[33m0e4eeef[m HEAD@{60}: commit: adapt script for 3 coordinate sourcepoint
+[33md1a5b11[m HEAD@{61}: commit (amend): adapt script for 3 coordinate sourcepoint
+[33md1a5b11[m HEAD@{62}: commit: adapt script for 3 coordinate sourcepoint
+[33m5c7b193[m HEAD@{63}: commit: adapt script for 3 coordinate sourcepoint
+[33m5c7b193[m HEAD@{64}: commit: adapt script for 3 coordinate sourcepoint
+[33m4b0f8b3[m HEAD@{65}: checkout: moving from ef960ef07d0325ec9287e77d94af74ab805b992f to master [e5b8d09f3c8543ed18ba7289e9cf4f320966a5e3]
+[33mef960ef[m HEAD@{66}: rebase: checkout refs/remotes/force/master
+[33m4b0f8b3[m HEAD@{67}: commit (amend): add a constant speed vector for start
+[33m7d0330a[m HEAD@{68}: undo: commit (amend): add a constant speed vector for start
+[33m4b0f8b3[m HEAD@{69}: commit (amend): add a constant speed vector for start
+[33m7d0330a[m HEAD@{70}: commit (amend): add a constant speed vector for start
+[33mef960ef[m HEAD@{71}: commit: add a constant speed vector for start
+[33m7225093[m HEAD@{72}: reset: moving to 7225093d0d4059e6708e825bb0e2d79872f003f9 [439d2c68b6155ad6ae8746189bd322de169a352b]
+[33m231d875[m HEAD@{73}: Fast forward branch master to branch master
+[33m7225093[m HEAD@{74}: commit: Auto stash before merge of "master" and "DC_sim/master"
+[33md30cc55[m HEAD@{75}: Fast forward branch master to branch master
+[33m0d2c614[m HEAD@{76}: undo: commit (merge): correct acceleration error. make definitions general to allow decelerating source
+[33m2a6d94e[m HEAD@{77}: undo: commit: gitignore
+[33m7de0ad9[m HEAD@{78}: commit: gitignore
+[33m2a6d94e[m HEAD@{79}: commit (merge): correct acceleration error. make definitions general to allow decelerating source
+[33m0d2c614[m HEAD@{80}: Fast forward branch master to branch master
+[33m51b951d[m HEAD@{81}: Fast forward branch master to branch master
+[33mc654860[m HEAD@{82}: reset: moving to c65486094145279121fa1d5d3a66432871c8675b [f3e1a888724ab9771ca47d1203ddc7eec5f814ac]
+[33m67321a8[m HEAD@{83}: commit: Revert "allow larger decalage between sources for gaussian"
+[33m2549b18[m HEAD@{84}: checkout: moving from c65486094145279121fa1d5d3a66432871c8675b to master
+[33mc654860[m HEAD@{85}: rebase: checkout refs/remotes/force/master
+[33m2549b18[m HEAD@{86}: Fast forward branch master to branch master
+[33mddb3afc[m HEAD@{87}: Fast forward branch master to branch master
+[33mf743cb4[m HEAD@{88}: Fast forward branch master to branch master
+[33mcdb8594[m HEAD@{89}: Fast forward branch master to branch master
+[33m2c741b8[m HEAD@{90}: Fast forward branch master to branch master
+[33m4dc6dd5[m HEAD@{91}: Fast forward branch master to branch master
+[33m7cc0f95[m HEAD@{92}: reset: moving to 7cc0f950302ed6340769abf7379547b4ceca5cb2 [b31eef038805c98e1540ec281d49dde60a12b1a5]
+[33mfc33c55[m HEAD@{93}: commit: Merged branch master into master
+[33m7aec012[m HEAD@{94}: Fast forward branch master to branch master
+[33m3e423e8[m HEAD@{95}: commit: Initialized a common Source repo for simulations
+[33m3e2c6b2[m HEAD@{96}: commit (initial): Initial commit
