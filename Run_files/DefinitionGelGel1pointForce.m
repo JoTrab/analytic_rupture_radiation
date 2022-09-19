@@ -1,8 +1,7 @@
 clear all
 % 4 und 50 
 % 3 ms 100 steps
-%addpath(genpath('~/work/functions/my_functions/Matlab/elastic_wavefield_analytical/simulation_force/'))
-addpath(genpath('~/ownCloud/work/functions/my_functions/Matlab/analytic_rupture_simulation/simulation_force/'))
+addpath(genpath('analytic_rupture_simulation/simulation_force/'))
 
 Params.Vp_Dpl = 'Vp'   % decide if you want displacement or Vp as primary output
 Trans.numelements_true = 256;
