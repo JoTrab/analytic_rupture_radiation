@@ -1,8 +1,6 @@
 %% DEfinitions
 clear all
-%addpath(genpath('~/work/functions/my_functions/Matlab/elastic_wavefield_analytical/simulation_force/'))
-% addpath(genpath('~/ownCloud/work/functions/my_functions/Matlab/elastic_wavefield_analytical/simulation_force/'))
-addpath(genpath('~/ownCloud/work/functions/my_functions/Matlab/analytic_rupture_simulation/DC_simulation/'))
+addpath(genpath('/analytic_rupture_simulation/DC_simulation/'))
 set(0,'DefaultFigureWindowStyle','Docked')
 % check that the convoluted source signal in the near field has a plateau
 % ---> source signal long enough
