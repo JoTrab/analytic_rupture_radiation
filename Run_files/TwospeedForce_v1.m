@@ -4,8 +4,7 @@ clear all
 % new x axis: Trans.numelements_true*Trans.spacingMm - Trans.spacingMm*128
 % 22.6480 : 38.1440
 
-%addpath(genpath('~/work/functions/my_functions/Matlab/elastic_wavefield_analytical/simulation_force/'))
-addpath(genpath('~/ownCloud/work/functions/my_functions/Matlab/analytic_rupture_simulation/simulation_force/'))
+addpath(genpath('analytic_rupture_simulation/simulation_force/'))
 set(0,'DefaultFigureWindowStyle','Docked')
 Params.Vp_Dpl = 'Dpl'   % decide if you want displacement or Vp as primary output
 % Trans.numelements_true = 202; %90 to have a third 'outside imaging region'
